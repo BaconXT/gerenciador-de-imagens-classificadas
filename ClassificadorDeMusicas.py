@@ -1,1 +1,1 @@
-# do a code to classify musics by genre using machine learning and python
+# do a code to classify musics by genre using machine learning and python language
